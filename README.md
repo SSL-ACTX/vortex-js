@@ -236,7 +236,7 @@ vortex <inputFile> <outputFile> [flags]
 
 ## ⚖ License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **AGPL-3.0 License**.
 
 > [!CAUTION]
 > **Disclaimer:** This tool is an educational research project demonstrating compiler theory and virtualization techniques. The author is not responsible for any misuse of this software.

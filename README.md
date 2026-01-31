@@ -3,7 +3,7 @@
 ![VortexJS Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:06b6d4&height=220&section=header&text=VortexJS&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Next-Gen%20Stackless%20JavaScript%20Virtualization&descSize=20&descAlignY=55)
 
 <!-- Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=open-source-initiative)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-AGPL_3.0-blue.svg?style=for-the-badge&logo=open-source-initiative)](https://opensource.org/licenses/AGPL-3.0)
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-SVM-magenta.svg?style=for-the-badge&logo=cpu)]()
 [![Optimization](https://img.shields.io/badge/IR_Opt-Level_3-yellow.svg?style=for-the-badge)]()

@@ -102,4 +102,4 @@ If you add a new Feature (e.g., support for `with` statements):
 
 ## 📜 License
 
-By contributing, you agree that your contributions will be licensed under the MIT License defined in the root of this repository.
+By contributing, you agree that your contributions will be licensed under the AGPL-3.0 License defined in the root of this repository.

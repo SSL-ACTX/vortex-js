@@ -24,6 +24,15 @@
 
 By implementing a virtual instruction pointer, manual stack management, and a custom memory heap, VortexJS decouples code execution from the host environment's native call stack. This creates a secure, sandboxed execution environment that is mathematically complex to reverse engineer.
 
+> [!] SECURITY NOTICE
+>
+> Unauthorized copies of this project have been found containing malicious
+> modifications.
+>
+> This repository is the ONLY official source maintained by the author.
+>
+> Any software obtained elsewhere should be considered unsafe and removed.
+
 ---
 
 ## 📑 Table of Contents
